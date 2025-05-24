@@ -54,3 +54,23 @@
     height: 250px;
     background-color: aquamarine;
 }
+
+.reclam{
+    background-color: grey;
+    width: 1599px;
+    height: 902px;
+}.text1{
+    width: 297px;
+    height: 24px;
+    
+}
+.h1{
+    width: 297px;
+    height: 24px;
+    font-size: 13px;
+}
+.h2{
+    width: 622px;
+    height: 225px;
+    font-size: 68px;
+}
