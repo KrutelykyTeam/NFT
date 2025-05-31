@@ -64,6 +64,7 @@ padding-left: 10px;
     height: 250px;
     background-color: aquamarine;
 }
+<<<<<<< HEAD
 .tradeblockart{
     width: 1200px;
     height: 1000px;
@@ -106,4 +107,25 @@ padding-left: 10px;
 .textcrt{
     display: flex;
     gap: 10px;
+=======
+
+.reclam{
+    background-color: grey;
+    width: 1599px;
+    height: 902px;
+}.text1{
+    width: 297px;
+    height: 24px;
+    
+}
+.h1{
+    width: 297px;
+    height: 24px;
+    font-size: 13px;
+}
+.h2{
+    width: 622px;
+    height: 225px;
+    font-size: 68px;
+>>>>>>> 3ec68ec9ee06961e7e3de9505a939477796d5d3a
 }
